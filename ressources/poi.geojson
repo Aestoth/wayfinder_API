@@ -1,0 +1,680 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					24.686150550842278,
+					-9.022147476814922
+				]
+			},
+			"properties": {
+				"index": 12,
+				"geotype": "Point",
+				"name": "L1W20 Office"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					24.686496553737197,
+					-9.02497669707634
+				]
+			},
+			"properties": {
+				"index": 107,
+				"geotype": "Point",
+				"name": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					24.68906879425048,
+					-9.022317014322752
+				]
+			},
+			"properties": {
+				"index": 13,
+				"geotype": "Point",
+				"name": "L1W15 Office"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					24.691214561462395,
+					-9.02837792789063
+				]
+			},
+			"properties": {
+				"index": 16,
+				"geotype": "Point",
+				"name": "L1W90 Office"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					24.691858291625973,
+					-9.022189861199351
+				]
+			},
+			"properties": {
+				"index": 14,
+				"geotype": "Point",
+				"name": "L1W10 Office"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					24.68894084233363,
+					-9.02504375341546
+				]
+			},
+			"properties": {
+				"index": 108,
+				"geotype": "Point",
+				"name": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					24.69121717542708,
+					-9.025114371700653
+				]
+			},
+			"properties": {
+				"index": 109,
+				"geotype": "Point",
+				"name": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					24.691817527012173,
+					-9.025122672044233
+				]
+			},
+			"properties": {
+				"index": 110,
+				"geotype": "Point",
+				"name": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					24.68310356140136,
+					-9.034142058870117
+				]
+			},
+			"properties": {
+				"index": 8,
+				"geotype": "Point",
+				"name": "L1W40 Office"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					24.68528047761224,
+					-9.033167155364652
+				]
+			},
+			"properties": {
+				"index": 100,
+				"geotype": "Point",
+				"name": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					24.68237400054931,
+					-9.031726221076568
+				]
+			},
+			"properties": {
+				"index": 102,
+				"geotype": "Point",
+				"name": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					24.685292243957512,
+					-9.031726221076568
+				]
+			},
+			"properties": {
+				"index": 101,
+				"geotype": "Point",
+				"name": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					24.685301629646055,
+					-9.030243126711412
+				]
+			},
+			"properties": {
+				"index": 104,
+				"geotype": "Point",
+				"name": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					24.69112873077392,
+					-9.03973656841552
+				]
+			},
+			"properties": {
+				"index": 4,
+				"geotype": "Point",
+				"name": "L1W60 Office"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					24.691300392150872,
+					-9.03435397369347
+				]
+			},
+			"properties": {
+				"index": 18,
+				"geotype": "Point",
+				"name": "L1W100 Office"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					24.691300392150872,
+					-9.031217621583053
+				]
+			},
+			"properties": {
+				"index": 17,
+				"geotype": "Point",
+				"name": "L1W95 Office"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					24.691300474215705,
+					-9.037104924317589
+				]
+			},
+			"properties": {
+				"index": 96,
+				"geotype": "Point",
+				"name": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					24.6903133392334,
+					-9.032022903783059
+				]
+			},
+			"properties": {
+				"index": 103,
+				"geotype": "Point",
+				"name": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					24.701642990112298,
+					-9.028081242184626
+				]
+			},
+			"properties": {
+				"index": 90,
+				"geotype": "Point",
+				"name": "L1W Fourplex"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					24.705419540405266,
+					-9.026809729251397
+				]
+			},
+			"properties": {
+				"index": 89,
+				"geotype": "Point",
+				"name": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					24.707264900207512,
+					-9.04410192080526
+				]
+			},
+			"properties": {
+				"index": 86,
+				"geotype": "Point",
+				"name": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					24.711041450500478,
+					-9.047111016387646
+				]
+			},
+			"properties": {
+				"index": 0,
+				"geotype": "Point",
+				"name": "L1 Stairs"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					24.712457656860348,
+					-9.040753742633683
+				]
+			},
+			"properties": {
+				"index": 87,
+				"geotype": "Point",
+				"name": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					24.71280097961425,
+					-9.025919667530843
+				]
+			},
+			"properties": {
+				"index": 88,
+				"geotype": "Point",
+				"name": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					24.704732894897454,
+					-9.035583077211243
+				]
+			},
+			"properties": {
+				"index": 91,
+				"geotype": "Point",
+				"name": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					24.704647064208977,
+					-9.037871741554099
+				]
+			},
+			"properties": {
+				"index": 92,
+				"geotype": "Point",
+				"name": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					24.693660736083977,
+					-9.03986371534991
+				]
+			},
+			"properties": {
+				"index": 3,
+				"geotype": "Point",
+				"name": "L1W65 Office"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					24.695892333984368,
+					-9.022359398687257
+				]
+			},
+			"properties": {
+				"index": 15,
+				"geotype": "Point",
+				"name": "L1W005 Office"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					24.69640731811523,
+					-9.03973656841552
+				]
+			},
+			"properties": {
+				"index": 2,
+				"geotype": "Point",
+				"name": "L1W70 Office"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					24.696793556213372,
+					-9.025750131715995
+				]
+			},
+			"properties": {
+				"index": 1,
+				"geotype": "Point",
+				"name": "L1W Closet A"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					24.697737693786614,
+					-9.03723600291734
+				]
+			},
+			"properties": {
+				"index": 93,
+				"geotype": "Point",
+				"name": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					24.696449896081862,
+					-9.037209779997099
+				]
+			},
+			"properties": {
+				"index": 94,
+				"geotype": "Point",
+				"name": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					24.69378939093356,
+					-9.03715560516683
+				]
+			},
+			"properties": {
+				"index": 95,
+				"geotype": "Point",
+				"name": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					24.69460487365722,
+					-9.025199139767437
+				]
+			},
+			"properties": {
+				"index": 111,
+				"geotype": "Point",
+				"name": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					24.68310356140136,
+					-9.029691818797176
+				]
+			},
+			"properties": {
+				"index": 9,
+				"geotype": "Point",
+				"name": "L1W35 Office"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					24.683232307434075,
+					-9.02286801067308
+				]
+			},
+			"properties": {
+				"index": 11,
+				"geotype": "Point",
+				"name": "L1W25 Office"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					24.683275222778313,
+					-9.026852113088054
+				]
+			},
+			"properties": {
+				"index": 10,
+				"geotype": "Point",
+				"name": "L1W30 Office"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					24.685327381199436,
+					-9.026173923092529
+				]
+			},
+			"properties": {
+				"index": 105,
+				"geotype": "Point",
+				"name": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					24.68533515930175,
+					-9.024944835507327
+				]
+			},
+			"properties": {
+				"index": 106,
+				"geotype": "Point",
+				"name": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					24.684004783630368,
+					-9.039821333043449
+				]
+			},
+			"properties": {
+				"index": 6,
+				"geotype": "Point",
+				"name": "L1W50 Office"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					24.688253402709954,
+					-9.039821333043449
+				]
+			},
+			"properties": {
+				"index": 5,
+				"geotype": "Point",
+				"name": "L1W55 Office"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					24.685678482055664,
+					-9.039100833070236
+				]
+			},
+			"properties": {
+				"index": 99,
+				"geotype": "Point",
+				"name": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					24.68846838063696,
+					-9.037047255481866
+				]
+			},
+			"properties": {
+				"index": 97,
+				"geotype": "Point",
+				"name": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					24.68524932861327,
+					-9.036981707148485
+				]
+			},
+			"properties": {
+				"index": 98,
+				"geotype": "Point",
+				"name": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					24.683232307434075,
+					-9.036812176536188
+				]
+			},
+			"properties": {
+				"index": 7,
+				"geotype": "Point",
+				"name": "L1W45 Office"
+			}
+		}
+	]
+}
