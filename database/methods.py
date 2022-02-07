@@ -1,5 +1,7 @@
+from flask import jsonify
 from .db import *
 from .models import *
+from utils.shortestpath import PathFinder
 
 def get_all_users() -> User:
     """
@@ -38,28 +40,8 @@ def get_layout_by_id(layout_id: int) -> Layout:
     return session.query(Layout).filter_by(id=layout_id).first()
 
 
-def save_layout(layout: Layout) -> Layout:
-    """
-    Save a layout to the database.
-    
-    ARGS:
-        layout: The layout object to save.
-    
-    RETURNS:
-        The layout object.
-    """
-    layout = Layout(
-        
-    )
-      
-        
-    
-    session.add(layout)
-    session.commit()
-    return layout
 
-
-def shortest_path(start: str, end: str) -> Path:
+def shortest_path(start: int, end: int) -> Path:
     """
     Show the shortest path between two points.
     
@@ -70,8 +52,9 @@ def shortest_path(start: str, end: str) -> Path:
     RETURNS:
         The shortest path between two points.
     """
-    path = session.query(Path).filter_by(start=start, end=end).first()
-    return path
+    return PathFinder.find_path(start, end)
+
+
 
 def get_all_pois() -> Poi:
     """
@@ -80,5 +63,7 @@ def get_all_pois() -> Poi:
     RETURNS:
         The poi.
     """
-    return session.query(Poi).all()
+    rows = session.query(Poi.name).all()
+    return jsonify(rows)
+
     

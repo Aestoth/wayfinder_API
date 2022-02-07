@@ -1,6 +1,7 @@
 import flask
 from database.methods import *
 from sqlalchemy.orm import Session
+from flask import jsonify, request
 
 
 app = flask.Flask(__name__)
@@ -11,11 +12,46 @@ blueprint = flask.Blueprint(
     url_prefix='/api/v1')
 
 
+layout = [ 
+    {
+        'name': 'floor1',
+        'pois': [
+            {
+                'name': 'Office1',
+                'node_id': 1
+            },
+            {
+                'name': 'Office2',
+                'node_id': 2
+            },
+            {
+                'name': 'Office3',
+                'node_id': 3
+            },
+            {
+                'name': 'Office4',
+                'node_id': 4
+            },
+            {
+                'name': 'Office5',
+                'node_id': 5
+            },
+            {
+                'name': 'Office6',
+                'node_id': 6
+            }
+        ]
+    }
+    
+    
+]
+
+
 # path for getting all users
 @blueprint.route('/users', methods=['GET'])
 def get_users():
     """ Get all users from the database. """
-    return flask.jsonify(get_all_users())
+    pass
     
 
 
@@ -44,11 +80,13 @@ def save_layout():
 @blueprint.route('/showpath', methods=['GET','POST'])
 def show_path():
     """ Show the shortest path between two points. """
-    data = flask.request.get_json()
-    pass
+    start = request.args.get(int, None)
+    end = request.args.get(int, None)
+    return shortest_path(start, end)
+
 
 # path for showing all pois
 @blueprint.route('/pois', methods=['GET'])
 def get_pois():
     """ Get all pois from the database. """
-    return flask.jsonify(get_all_pois())
+    return jsonify(layout)
