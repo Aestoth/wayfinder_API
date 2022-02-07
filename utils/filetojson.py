@@ -2,12 +2,10 @@ import abc
 import json
 
 
-
 class FileConversion(abc.ABC):
     @abc.abstractmethod
     def convert_file(self, file: str) -> str:
         """ get the file to be converted """
-
 
 
 class Convertor( FileConversion ):

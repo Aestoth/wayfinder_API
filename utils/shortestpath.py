@@ -116,7 +116,7 @@ def main() -> None:
         graph.add_edge(*edge)
     
     path_finder = PathFinder(Dijkstra)
-    path = path_finder.find_path(graph, 0, 6)
+    path = path_finder.find_path(graph, 0, 13)
     for vertex in range(len(path)):
         print("Distance from vertex 0 to vertex", vertex, "is", path[vertex])
 
